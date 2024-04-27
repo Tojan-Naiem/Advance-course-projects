@@ -1,2 +1,3 @@
-This files is my projects when i take Advanced course in my university 
-Advanced programming is a course come after OOP course , it's about how to built GUI using Swing 
+These files are from my projects during the Advanced course I took at my university.
+
+Advanced programming is a course that comes after the OOP course, focusing on how to build GUIs using Swing. 
