@@ -2,7 +2,9 @@ These files are from my projects during the Advanced course I took at my univers
 
 Advanced programming is a course that comes after the OOP course, focusing on how to build GUIs using Swing. 
 
-First assigment is to Build this GUI ( The code is in the file with name (SignUpPage(assi1).java)
+----------------------------------------------
+
+The first assignment is to build this GUI ( I've added the code in the file named "SignUpPage(assi1).java." ):
 
 
 
