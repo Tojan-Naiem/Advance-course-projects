@@ -9,9 +9,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-// calculater app 
+// Calculator app 
 
-public class Calculater extends JFrame implements ActionListener {
+public class Calculator extends JFrame implements ActionListener {
     
     JButton button,plus,multiply,subtraction,division;
     JTextField t;
